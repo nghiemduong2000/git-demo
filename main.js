@@ -6,4 +6,5 @@ const sum = (num1, num2) => {
 }
 
 console.log(one, two);
+console.log(two, one);
 console.log(sum(one, two));
