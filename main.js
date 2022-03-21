@@ -8,6 +8,9 @@ const sum = (num1, num2) => {
 const multiple = (num1, num2) => {
   return num1 + num2;
 }
+const showText = () => {
+  console.log("Hello World");
+}
 
 console.log(one, two);
 console.log(two, one);
